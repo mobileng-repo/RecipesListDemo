@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/developer/Downloads/RecipesListDemo/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_recipe_list_item.xml",
+        "source": "/Users/developer/Downloads/RecipesListDemo/app/src/main/res/layout/layout_recipe_list_item.xml"
+    },
+    {
+        "merged": "/Users/developer/Downloads/RecipesListDemo/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_category_list_item.xml",
+        "source": "/Users/developer/Downloads/RecipesListDemo/app/src/main/res/layout/layout_category_list_item.xml"
+    }
+]
